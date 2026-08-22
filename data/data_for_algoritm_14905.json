@@ -1,0 +1,3096 @@
+{
+  "data": {
+    "cargoes": [
+      {
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300,
+          "height": 300,
+          "length": 400
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 75,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#e5d759",
+          "title": "Крем",
+          "article": "123",
+          "group_id": "2dpvmhl6eevkpcdemix6v57kuwh1luha",
+          "group_title": "Группа 4"
+        },
+        "mass": 6.0,
+        "size": {
+          "width": 300,
+          "height": 250,
+          "length": 400
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 100,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "xlicer0kx83yxsncrrsefkpdxvpzvplk",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200,
+          "height": 180,
+          "length": 250
+        },
+        "sort": 3,
+        "type": "box",
+        "count": 80,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#07c472",
+          "title": "Помада",
+          "article": "789",
+          "group_id": "4ojwffcmclrpcvh22livsufmohaewmfw",
+          "group_title": "Группа 2"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 80,
+          "height": 50,
+          "length": 150
+        },
+        "sort": 4,
+        "type": "box",
+        "count": 250,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "5zauuy4fe0zlxlxhsfpexaezlbywbku8",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      }
+    ],
+    "settings": {
+      "rank": false,
+      "max_step": 100,
+      "min_step": 50,
+      "usersort": true,
+      "hardlimit": 1801,
+      "timelimit": 1800,
+      "step_scaling": 10
+    },
+    "put_boxes": [],
+    "initial_id": 0,
+    "cargo_space": {
+      "id": 256,
+      "info": {
+        "uid": "256_0",
+        "sort": 0,
+        "title": "EURO",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20,
+      "size": {
+        "width": 800,
+        "height": 200,
+        "length": 1200
+      },
+      "type": "pallet",
+      "axles": [],
+      "title": "EURO",
+      "margin": {
+        "width": 0,
+        "height": 0,
+        "length": 0
+      },
+      "indentation": {
+        "width": 0,
+        "height": 0,
+        "length": 0,
+        "height_top": 0,
+        "length_end": 0,
+        "width_right": 0
+      },
+      "loading_size": {
+        "width": 800,
+        "height": 2000,
+        "length": 1200
+      },
+      "carrying_capacity": 1000
+    },
+    "calculation_id": "14905"
+  },
+  "data_result": {
+    "boxes": [
+      {
+        "id": 1,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 0,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 5,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 2,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 0.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 4,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 2,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 7,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 3,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 0.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 6,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 3,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 3,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 4,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 0.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 2,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 4,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 9,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 5,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 300.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 8,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 5,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 300.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 13,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 6,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 300.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 12,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 6,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 300.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 15,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 7,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 300.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 14,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 7,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 300.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 11,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 8,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 300.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 10,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 8,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 300.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 17,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 9,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 600.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 16,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 9,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 21,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 10,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 600.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 20,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 10,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 23,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 11,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 600.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 22,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 11,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 19,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 12,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 600.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 18,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 12,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 25,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 13,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 900.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 24,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 13,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 900.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 29,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 14,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 900.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 28,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 14,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 900.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 31,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 15,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 900.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 30,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 16,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 900.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 27,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 17,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 900.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 26,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 18,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 900.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 33,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 19,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 1200.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 32,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 20,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 1200.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 37,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 21,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 1200.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 36,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 22,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 1200.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 39,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 23,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 1200.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 38,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 24,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 1200.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 35,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 25,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 1200.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 34,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 26,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 1200.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 41,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 27,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 1500.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 40,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 28,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 0.0,
+          "y": 1500.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 45,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 29,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 1500.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 44,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 30,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 300.0,
+          "y": 1500.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 47,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 31,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 1500.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 46,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 32,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 600.0,
+          "y": 1500.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 43,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 33,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 1500.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 42,
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 34,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "position": {
+          "x": 900.0,
+          "y": 1500.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 176,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 35,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 0.0,
+          "y": 1800.0,
+          "z": 550.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 179,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 36,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 0.0,
+          "y": 1800.0,
+          "z": 250.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 175,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 37,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 0.0,
+          "y": 1800.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 182,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 38,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 200.0,
+          "y": 1800.0,
+          "z": 550.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 189,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 39,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 200.0,
+          "y": 1800.0,
+          "z": 250.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 181,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 40,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 200.0,
+          "y": 1800.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 186,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 41,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 400.0,
+          "y": 1800.0,
+          "z": 550.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 191,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 42,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 400.0,
+          "y": 1800.0,
+          "z": 250.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 185,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 43,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 400.0,
+          "y": 1800.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 188,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 44,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 600.0,
+          "y": 1800.0,
+          "z": 550.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 192,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 45,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 600.0,
+          "y": 1800.0,
+          "z": 250.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 187,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 46,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 600.0,
+          "y": 1800.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 184,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 47,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 800.0,
+          "y": 1800.0,
+          "z": 550.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 190,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 48,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 800.0,
+          "y": 1800.0,
+          "z": 250.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 183,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 49,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 800.0,
+          "y": 1800.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 178,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 50,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 1000.0,
+          "y": 1800.0,
+          "z": 550.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 180,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 51,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 1000.0,
+          "y": 1800.0,
+          "z": 250.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 177,
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "step": 52,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "position": {
+          "x": 1000.0,
+          "y": 1800.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 250.0,
+          "height": 180.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      }
+    ],
+    "version": 5,
+    "cargo_space": {
+      "id": 256,
+      "info": {
+        "uid": "256_0",
+        "sort": 0,
+        "title": "EURO",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20.0,
+      "size": {
+        "width": 800.0,
+        "height": 200.0,
+        "length": 1200.0
+      },
+      "type": "pallet",
+      "indentation": {
+        "width": 0.0,
+        "height": 0.0,
+        "length": 0.0,
+        "height_top": -1800.0,
+        "length_end": 0.0,
+        "width_right": 0.0
+      },
+      "loading_size": {
+        "width": 800.0,
+        "height": 2000.0,
+        "length": 1200.0
+      },
+      "calculation_info": {
+        "step_count": 52,
+        "cargos_mass": 0.363,
+        "load_volume": 1.92,
+        "cargos_volume": 1.89,
+        "count_cargoes": 66,
+        "load_capacity": 1.0,
+        "loading_height": 1.98,
+        "density_percent": 99.43182,
+        "remaining_volume": 0.03,
+        "void_space_percent": 1.5625,
+        "filling_space_percent": 98.4375
+      },
+      "carrying_capacity": 1000.0,
+      "real_center_of_gravity": [
+        599.9999999999999,
+        973.6363636363636,
+        399.3801652892562
+      ],
+      "ideal_center_of_gravity": [
+        600.0,
+        0.0,
+        400.0
+      ]
+    },
+    "cargo_groups": [
+      {
+        "info": {
+          "color": "#a53db1",
+          "title": "Зубная паста",
+          "article": "456",
+          "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+          "group_title": "Группа 1"
+        },
+        "mass": 1.5,
+        "size": {
+          "width": 200.0,
+          "height": 180.0,
+          "length": 250.0
+        },
+        "sort": 3,
+        "type": "box",
+        "count": 62.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorIntersectionContainer"
+      },
+      {
+        "info": {
+          "color": "#e5d759",
+          "title": "Крем",
+          "article": "123",
+          "group_id": "2dpvmhl6eevkpcdemix6v57kuwh1luha",
+          "group_title": "Группа 4"
+        },
+        "mass": 6.0,
+        "size": {
+          "width": 300.0,
+          "height": 250.0,
+          "length": 400.0
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 100.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xlicer0kx83yxsncrrsefkpdxvpzvplk",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorIntersectionContainer"
+      },
+      {
+        "info": {
+          "color": "#c1e95c",
+          "title": "Ополаскиватель",
+          "article": "59",
+          "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+          "group_title": "Группа 3"
+        },
+        "mass": 7.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 27.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorIntersectionContainer"
+      },
+      {
+        "info": {
+          "color": "#07c472",
+          "title": "Помада",
+          "article": "789",
+          "group_id": "4ojwffcmclrpcvh22livsufmohaewmfw",
+          "group_title": "Группа 2"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 80.0,
+          "height": 50.0,
+          "length": 150.0
+        },
+        "sort": 4,
+        "type": "box",
+        "count": 250.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "5zauuy4fe0zlxlxhsfpexaezlbywbku8",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorIntersectionContainer"
+      }
+    ],
+    "packing_type": "PackingLayers",
+    "calculation_id": 14905,
+    "invalid_errors": [],
+    "unpacked_errors": [
+      {
+        "key": 0,
+        "name": "success",
+        "boxes": [
+          {
+            "id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+            "info": {
+              "color": "#a53db1",
+              "title": "Зубная паста",
+              "article": "456",
+              "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "xlicer0kx83yxsncrrsefkpdxvpzvplk",
+            "info": {
+              "color": "#e5d759",
+              "title": "Крем",
+              "article": "123",
+              "group_id": "2dpvmhl6eevkpcdemix6v57kuwh1luha",
+              "group_title": "Группа 4"
+            }
+          },
+          {
+            "id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+            "info": {
+              "color": "#c1e95c",
+              "title": "Ополаскиватель",
+              "article": "59",
+              "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+              "group_title": "Группа 3"
+            }
+          },
+          {
+            "id": "5zauuy4fe0zlxlxhsfpexaezlbywbku8",
+            "info": {
+              "color": "#07c472",
+              "title": "Помада",
+              "article": "789",
+              "group_id": "4ojwffcmclrpcvh22livsufmohaewmfw",
+              "group_title": "Группа 2"
+            }
+          }
+        ]
+      },
+      {
+        "key": 11,
+        "name": "errorIntersectionContainer",
+        "boxes": [
+          {
+            "id": "cg24cu0sbq7ff3tnwvjnqoojzglvz2v1",
+            "info": {
+              "color": "#a53db1",
+              "title": "Зубная паста",
+              "article": "456",
+              "group_id": "3numuwncvufnoe4cvgnnykd3jxrqmvuj",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "xlicer0kx83yxsncrrsefkpdxvpzvplk",
+            "info": {
+              "color": "#e5d759",
+              "title": "Крем",
+              "article": "123",
+              "group_id": "2dpvmhl6eevkpcdemix6v57kuwh1luha",
+              "group_title": "Группа 4"
+            }
+          },
+          {
+            "id": "f9wzrhu0dsnwsldlmgicrzltrnmztzsq",
+            "info": {
+              "color": "#c1e95c",
+              "title": "Ополаскиватель",
+              "article": "59",
+              "group_id": "1n2manmlllt9ipuptu78w3uemoqjkoyz",
+              "group_title": "Группа 3"
+            }
+          },
+          {
+            "id": "5zauuy4fe0zlxlxhsfpexaezlbywbku8",
+            "info": {
+              "color": "#07c472",
+              "title": "Помада",
+              "article": "789",
+              "group_id": "4ojwffcmclrpcvh22livsufmohaewmfw",
+              "group_title": "Группа 2"
+            }
+          }
+        ]
+      }
+    ],
+    "validate_errors": [
+      "ERROR_INDENTATION"
+    ],
+    "is_packed_same_boxes": false
+  }
+}

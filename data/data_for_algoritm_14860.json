@@ -1,0 +1,1142 @@
+{
+  "data": {
+    "cargoes": [
+      {
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380,
+          "height": 600,
+          "length": 390
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 40,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#dd1a8f",
+          "title": "Аккустика",
+          "article": "456",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 33.0,
+        "size": {
+          "width": 530,
+          "height": 1150,
+          "length": 450
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 80,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "hl0jgfpt5bmhq7dtmfmzys9ikm5ll9pr",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#0dba66",
+          "title": "Сабвуфер",
+          "article": "12",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 25.0,
+        "size": {
+          "width": 450,
+          "height": 470,
+          "length": 470
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 15,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "pmiluwc0gzitl8nxvxuaeyayr4l72yaw",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      }
+    ],
+    "settings": {
+      "rank": false,
+      "max_step": 100,
+      "min_step": 50,
+      "usersort": false,
+      "hardlimit": 1801,
+      "timelimit": 1800,
+      "step_scaling": 10
+    },
+    "put_boxes": [],
+    "initial_id": 0,
+    "cargo_space": {
+      "id": 1050,
+      "info": {
+        "uid": "1050_0",
+        "sort": 0,
+        "title": "Аудио",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20,
+      "size": {
+        "width": 800,
+        "height": 200,
+        "length": 1200
+      },
+      "type": "pallet",
+      "axles": [],
+      "title": "Аудио",
+      "margin": {
+        "width": 0,
+        "height": 0,
+        "length": 0
+      },
+      "indentation": {
+        "width": 0,
+        "height": 0,
+        "length": 0,
+        "height_top": 0,
+        "length_end": 0,
+        "width_right": 0
+      },
+      "loading_size": {
+        "width": 800,
+        "height": 2350,
+        "length": 1200
+      },
+      "carrying_capacity": 1000
+    },
+    "calculation_id": "14860"
+  },
+  "data_result": {
+    "boxes": [
+      {
+        "id": 1,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 390.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 0,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 2,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 3,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 3,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 380.0,
+          "y": 0.0,
+          "z": 390.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 2,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 4,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 380.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 5,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 5,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 760.0,
+          "y": 0.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 4,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 6,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 760.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 10,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 7,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 0.0,
+          "y": 600.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 11,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 8,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 0.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 8,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 9,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 390.0,
+          "y": 600.0,
+          "z": 390.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 9,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 10,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 390.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 6,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 11,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 770.0,
+          "y": 600.0,
+          "z": 390.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 7,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 12,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 770.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 13,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 13,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 0.0,
+          "y": 1200.0,
+          "z": 390.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 12,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 14,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 0.0,
+          "y": 1200.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 15,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 15,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 380.0,
+          "y": 1200.0,
+          "z": 390.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 14,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 16,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 380.0,
+          "y": 1200.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 600.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 17,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 17,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 760.0,
+          "y": 1200.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 16,
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "step": 18,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "position": {
+          "x": 760.0,
+          "y": 1200.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": false,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 120,
+        "info": {
+          "color": "#0dba66",
+          "title": "Сабвуфер",
+          "article": "12",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 25.0,
+        "size": {
+          "width": 450.0,
+          "height": 470.0,
+          "length": 470.0
+        },
+        "sort": 1,
+        "step": 19,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "pmiluwc0gzitl8nxvxuaeyayr4l72yaw",
+        "position": {
+          "x": 0.0,
+          "y": 1800.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 470.0,
+          "height": 450.0,
+          "length": 470.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 121,
+        "info": {
+          "color": "#0dba66",
+          "title": "Сабвуфер",
+          "article": "12",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 25.0,
+        "size": {
+          "width": 450.0,
+          "height": 470.0,
+          "length": 470.0
+        },
+        "sort": 1,
+        "step": 20,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "pmiluwc0gzitl8nxvxuaeyayr4l72yaw",
+        "position": {
+          "x": 470.0,
+          "y": 1800.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 470.0,
+          "height": 450.0,
+          "length": 470.0
+        },
+        "virtual_positions": null
+      }
+    ],
+    "version": 5,
+    "cargo_space": {
+      "id": 1050,
+      "info": {
+        "uid": "1050_0",
+        "sort": 0,
+        "title": "Аудио",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20.0,
+      "size": {
+        "width": 800.0,
+        "height": 200.0,
+        "length": 1200.0
+      },
+      "type": "pallet",
+      "indentation": {
+        "width": 0.0,
+        "height": 0.0,
+        "length": 0.0,
+        "height_top": -2150.0,
+        "length_end": 0.0,
+        "width_right": 0.0
+      },
+      "loading_size": {
+        "width": 800.0,
+        "height": 2350.0,
+        "length": 1200.0
+      },
+      "calculation_info": {
+        "step_count": 20,
+        "cargos_mass": 0.41,
+        "load_volume": 2.256,
+        "cargos_volume": 1.79937,
+        "count_cargoes": 20,
+        "load_capacity": 1.0,
+        "loading_height": 2.25,
+        "density_percent": 89.15496,
+        "remaining_volume": 0.45663,
+        "void_space_percent": 20.24069,
+        "filling_space_percent": 79.75931
+      },
+      "carrying_capacity": 1000.0,
+      "real_center_of_gravity": [
+        561.2195121951219,
+        1037.1951219512196,
+        371.0975609756098
+      ],
+      "ideal_center_of_gravity": [
+        600.0,
+        0.0,
+        400.0
+      ]
+    },
+    "cargo_groups": [
+      {
+        "info": {
+          "color": "#0dba66",
+          "title": "Сабвуфер",
+          "article": "12",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 25.0,
+        "size": {
+          "width": 450.0,
+          "height": 470.0,
+          "length": 470.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 13.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "pmiluwc0gzitl8nxvxuaeyayr4l72yaw",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#dd1a8f",
+          "title": "Аккустика",
+          "article": "456",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 33.0,
+        "size": {
+          "width": 450.0,
+          "height": 1150.0,
+          "length": 530.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 80.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "hl0jgfpt5bmhq7dtmfmzys9ikm5ll9pr",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#b22d1e",
+          "title": "Усилитель",
+          "article": "7789",
+          "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 380.0,
+          "height": 600.0,
+          "length": 390.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 22.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      }
+    ],
+    "packing_type": "PackingPalletBlocks",
+    "calculation_id": 14860,
+    "invalid_errors": [],
+    "unpacked_errors": [
+      {
+        "key": 0,
+        "name": "success",
+        "boxes": [
+          {
+            "id": "pmiluwc0gzitl8nxvxuaeyayr4l72yaw",
+            "info": {
+              "color": "#0dba66",
+              "title": "Сабвуфер",
+              "article": "12",
+              "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "hl0jgfpt5bmhq7dtmfmzys9ikm5ll9pr",
+            "info": {
+              "color": "#dd1a8f",
+              "title": "Аккустика",
+              "article": "456",
+              "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "htsrgbu7qntzquwnddy3kmt7590zaxri",
+            "info": {
+              "color": "#b22d1e",
+              "title": "Усилитель",
+              "article": "7789",
+              "group_id": "17eg26imcnvtdwcxbio4meuijup89kts",
+              "group_title": "Группа 1"
+            }
+          }
+        ]
+      }
+    ],
+    "validate_errors": [
+      "ERROR_INDENTATION"
+    ],
+    "is_packed_same_boxes": false
+  }
+}

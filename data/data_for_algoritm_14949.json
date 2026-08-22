@@ -1,0 +1,910 @@
+{
+  "data": {
+    "cargoes": [
+      {
+        "info": {
+          "color": "#ae7254",
+          "title": "D300",
+          "article": "16",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 400,
+          "height": 450,
+          "length": 630
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 4,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "mlcat10gi2ijjlo5fs8rwdt6xvbqcygz",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280,
+          "height": 380,
+          "length": 490
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "hcuwjodgusi0p6pxyavqrwdc2jo70zl3",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290,
+          "height": 290,
+          "length": 520
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 5,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "je7uslxihvosanqewijp8vps9hq8e1er",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320,
+          "height": 430,
+          "length": 1070
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 9,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      }
+    ],
+    "settings": {
+      "rank": false,
+      "max_step": 100,
+      "min_step": 50,
+      "usersort": false,
+      "hardlimit": 1801,
+      "timelimit": 1800,
+      "step_scaling": 10
+    },
+    "put_boxes": [],
+    "initial_id": 0,
+    "cargo_space": {
+      "id": 1067,
+      "info": {
+        "uid": "1067_0",
+        "sort": 0,
+        "title": "Азия",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20,
+      "size": {
+        "width": 1000,
+        "height": 145,
+        "length": 1100
+      },
+      "type": "pallet",
+      "axles": [],
+      "title": "Азия",
+      "margin": {
+        "width": 0,
+        "height": 0,
+        "length": 0
+      },
+      "indentation": {
+        "width": 0,
+        "height": 0,
+        "length": 0,
+        "height_top": 0,
+        "length_end": 0,
+        "width_right": 0
+      },
+      "loading_size": {
+        "width": 1000,
+        "height": 2330,
+        "length": 1100
+      },
+      "carrying_capacity": 300
+    },
+    "calculation_id": "14949"
+  },
+  "data_result": {
+    "boxes": [
+      {
+        "id": 14,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 430.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 10,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 2,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 3,
+        "info": {
+          "color": "#ae7254",
+          "title": "D300",
+          "article": "16",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 400.0,
+          "height": 450.0,
+          "length": 630.0
+        },
+        "sort": 1,
+        "step": 3,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "mlcat10gi2ijjlo5fs8rwdt6xvbqcygz",
+        "position": {
+          "x": 0.0,
+          "y": 320.0,
+          "z": 430.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 450.0,
+          "height": 400.0,
+          "length": 630.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 4,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 4,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "hcuwjodgusi0p6pxyavqrwdc2jo70zl3",
+        "position": {
+          "x": 630.0,
+          "y": 320.0,
+          "z": 430.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 5,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 490.0,
+          "height": 280.0,
+          "length": 380.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 18,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 5,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 320.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 15,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 6,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 720.0,
+          "z": 430.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 11,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 7,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 640.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 0,
+        "info": {
+          "color": "#ae7254",
+          "title": "D300",
+          "article": "16",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 400.0,
+          "height": 450.0,
+          "length": 630.0
+        },
+        "sort": 1,
+        "step": 8,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "mlcat10gi2ijjlo5fs8rwdt6xvbqcygz",
+        "position": {
+          "x": 0.0,
+          "y": 1040.0,
+          "z": 430.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 450.0,
+          "height": 400.0,
+          "length": 630.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 5,
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "sort": 1,
+        "step": 9,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "je7uslxihvosanqewijp8vps9hq8e1er",
+        "position": {
+          "x": 0.0,
+          "y": 1440.0,
+          "z": 430.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 1,
+        "info": {
+          "color": "#ae7254",
+          "title": "D300",
+          "article": "16",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 400.0,
+          "height": 450.0,
+          "length": 630.0
+        },
+        "sort": 1,
+        "step": 10,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "mlcat10gi2ijjlo5fs8rwdt6xvbqcygz",
+        "position": {
+          "x": 630.0,
+          "y": 1040.0,
+          "z": 430.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 2,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 630.0,
+          "length": 450.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 12,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 11,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 960.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 16,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 12,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 1280.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 13,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 13,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 1600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 17,
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "step": 14,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "f3644w1hjj7vles2xpff60atfxsj2kju",
+        "position": {
+          "x": 0.0,
+          "y": 1920.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 430.0,
+          "height": 320.0,
+          "length": 1070.0
+        },
+        "virtual_positions": null
+      }
+    ],
+    "version": 5,
+    "cargo_space": {
+      "id": 1067,
+      "info": {
+        "uid": "1067_0",
+        "sort": 0,
+        "title": "Азия",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20.0,
+      "size": {
+        "width": 1000.0,
+        "height": 145.0,
+        "length": 1100.0
+      },
+      "type": "pallet",
+      "indentation": {
+        "width": 0.0,
+        "height": 0.0,
+        "length": 0.0,
+        "height_top": -2185.0,
+        "length_end": 0.0,
+        "width_right": 0.0
+      },
+      "loading_size": {
+        "width": 1000.0,
+        "height": 2330.0,
+        "length": 1100.0
+      },
+      "calculation_info": {
+        "step_count": 14,
+        "cargos_mass": 0.2948,
+        "load_volume": 2.563,
+        "cargos_volume": 1.76116,
+        "count_cargoes": 14,
+        "load_capacity": 0.3,
+        "loading_height": 2.24,
+        "density_percent": 79.12946,
+        "remaining_volume": 0.80184,
+        "void_space_percent": 31.28537,
+        "filling_space_percent": 68.71463
+      },
+      "carrying_capacity": 300.0,
+      "real_center_of_gravity": [
+        529.0468113975578,
+        995.4324966078699,
+        397.4355495251018
+      ],
+      "ideal_center_of_gravity": [
+        550.0,
+        0.0,
+        500.0
+      ]
+    },
+    "cargo_groups": [
+      {
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 4.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "je7uslxihvosanqewijp8vps9hq8e1er",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorLoadCapacity"
+      },
+      {
+        "info": {
+          "color": "#ae7254",
+          "title": "D300",
+          "article": "16",
+          "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 400.0,
+          "height": 450.0,
+          "length": 630.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "mlcat10gi2ijjlo5fs8rwdt6xvbqcygz",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorLoadCapacity"
+      }
+    ],
+    "packing_type": "PackingLayers",
+    "calculation_id": 14949,
+    "invalid_errors": [],
+    "unpacked_errors": [
+      {
+        "key": 0,
+        "name": "success",
+        "boxes": [
+          {
+            "id": "je7uslxihvosanqewijp8vps9hq8e1er",
+            "info": {
+              "color": "#6a5d24",
+              "title": "JamLab 6C",
+              "article": "3",
+              "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+              "group_title": "Группа 1"
+            }
+          }
+        ]
+      },
+      {
+        "key": 4,
+        "name": "errorLoadCapacity",
+        "boxes": [
+          {
+            "id": "je7uslxihvosanqewijp8vps9hq8e1er",
+            "info": {
+              "color": "#6a5d24",
+              "title": "JamLab 6C",
+              "article": "3",
+              "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "mlcat10gi2ijjlo5fs8rwdt6xvbqcygz",
+            "info": {
+              "color": "#ae7254",
+              "title": "D300",
+              "article": "16",
+              "group_id": "18jpm4lpajrh24ut3i6pwixwb5tgqnbz",
+              "group_title": "Группа 1"
+            }
+          }
+        ]
+      }
+    ],
+    "validate_errors": [
+      "ERROR_INDENTATION"
+    ],
+    "is_packed_same_boxes": false
+  }
+}

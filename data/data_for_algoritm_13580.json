@@ -1,0 +1,1743 @@
+{
+  "data": {
+    "cargoes": [
+      {
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300,
+          "height": 300,
+          "length": 500
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 18,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300,
+          "height": 300,
+          "length": 350
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 16,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200,
+          "height": 200,
+          "length": 400
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 16,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#b2f762",
+          "title": "Колбаса краковская",
+          "article": "123",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 300,
+          "height": 200,
+          "length": 300
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 11,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "jdwmvgeqz4iwrj0pzrsostqsvytv4ybu",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      }
+    ],
+    "settings": {
+      "rank": false,
+      "max_step": 100,
+      "min_step": 50,
+      "usersort": false,
+      "hardlimit": 1801,
+      "timelimit": 1800,
+      "step_scaling": 10
+    },
+    "put_boxes": [],
+    "initial_id": 0,
+    "cargo_space": {
+      "id": 830,
+      "info": {
+        "uid": "830_0",
+        "sort": 0,
+        "title": "Гулливер",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20,
+      "size": {
+        "width": 800,
+        "height": 200,
+        "length": 1200
+      },
+      "type": "pallet",
+      "axles": [],
+      "title": "Гулливер",
+      "margin": {
+        "width": 0,
+        "height": 0,
+        "length": 0
+      },
+      "hardlimit": 1801,
+      "timelimit": 1800,
+      "indentation": {
+        "width": 0,
+        "height": 0,
+        "length": 0,
+        "height_top": 0,
+        "length_end": 0,
+        "width_right": 0
+      },
+      "loading_size": {
+        "width": 800,
+        "height": 1650,
+        "length": 1200
+      },
+      "carrying_capacity": 500
+    },
+    "calculation_id": "13580"
+  },
+  "data_result": {
+    "boxes": [
+      {
+        "id": 15,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 1,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 300.0,
+          "y": 0.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 0,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 34,
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "position": {
+          "x": 600.0,
+          "y": 0.0,
+          "z": 600.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 17,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 0.0,
+          "y": 300.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 3,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 300.0,
+          "y": 300.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 2,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 0.0,
+          "y": 300.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 50,
+        "info": {
+          "color": "#b2f762",
+          "title": "Колбаса краковская",
+          "article": "123",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 300.0,
+          "height": 200.0,
+          "length": 300.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "jdwmvgeqz4iwrj0pzrsostqsvytv4ybu",
+        "position": {
+          "x": 600.0,
+          "y": 200.0,
+          "z": 600.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 30,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 600.0,
+          "y": 0.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 16,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 500.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 36,
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "position": {
+          "x": 1000.0,
+          "y": 0.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 200.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 35,
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "position": {
+          "x": 1000.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 200.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 32,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 600.0,
+          "y": 300.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 31,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 500.0,
+          "y": 300.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 37,
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "position": {
+          "x": 1000.0,
+          "y": 200.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 200.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 38,
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "position": {
+          "x": 1000.0,
+          "y": 400.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 200.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 18,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 850.0,
+          "y": 300.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 5,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 0.0,
+          "y": 600.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 51,
+        "info": {
+          "color": "#b2f762",
+          "title": "Колбаса краковская",
+          "article": "123",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 300.0,
+          "height": 200.0,
+          "length": 300.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "jdwmvgeqz4iwrj0pzrsostqsvytv4ybu",
+        "position": {
+          "x": 300.0,
+          "y": 600.0,
+          "z": 600.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 19,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 300.0,
+          "y": 600.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 4,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 0.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 7,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 700.0,
+          "y": 600.0,
+          "z": 500.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 52,
+        "info": {
+          "color": "#b2f762",
+          "title": "Колбаса краковская",
+          "article": "123",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 300.0,
+          "height": 200.0,
+          "length": 300.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "jdwmvgeqz4iwrj0pzrsostqsvytv4ybu",
+        "position": {
+          "x": 0.0,
+          "y": 900.0,
+          "z": 600.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 21,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 0.0,
+          "y": 900.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 39,
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "position": {
+          "x": 650.0,
+          "y": 600.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 2,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 400.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 33,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 500.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 6,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 900.0,
+          "y": 600.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 20,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 0.0,
+          "y": 900.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 8,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 350.0,
+          "y": 900.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 40,
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "position": {
+          "x": 350.0,
+          "y": 900.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 23,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 900.0,
+          "y": 900.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 350.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 22,
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "position": {
+          "x": 0.0,
+          "y": 1200.0,
+          "z": 500.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 9,
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "position": {
+          "x": 0.0,
+          "y": 1200.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      }
+    ],
+    "version": 5,
+    "cargo_space": {
+      "id": 830,
+      "info": {
+        "uid": "830_0",
+        "sort": 0,
+        "title": "Гулливер",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20.0,
+      "size": {
+        "width": 800.0,
+        "height": 200.0,
+        "length": 1200.0
+      },
+      "type": "pallet",
+      "indentation": {
+        "width": 0.0,
+        "height": 0.0,
+        "length": 0.0,
+        "height_top": -1450.0,
+        "length_end": 0.0,
+        "width_right": 0.0
+      },
+      "loading_size": {
+        "width": 800.0,
+        "height": 1650.0,
+        "length": 1200.0
+      },
+      "calculation_info": {
+        "cargos_mass": 0.495,
+        "load_volume": 1.584,
+        "cargos_volume": 1.066,
+        "load_capacity": 0.5,
+        "loading_height": 1.5,
+        "density_percent": 74.02778,
+        "remaining_volume": 0.518,
+        "void_space_percent": 32.70202,
+        "filling_space_percent": 67.29798
+      },
+      "carrying_capacity": 500.0,
+      "real_center_of_gravity": [
+        566.6666666666664,
+        627.7777777777778,
+        387.37373737373736
+      ],
+      "ideal_center_of_gravity": [
+        600.0,
+        0.0,
+        400.0
+      ]
+    },
+    "cargo_groups": [
+      {
+        "info": {
+          "color": "#ff3dfb",
+          "title": "Сыр Российский",
+          "article": "159",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 15.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 500.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 5.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorLoadCapacity"
+      },
+      {
+        "info": {
+          "color": "#7a22d8",
+          "title": "Масло сливочное",
+          "article": "789",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 350.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 6.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorLoadCapacity"
+      },
+      {
+        "info": {
+          "color": "#b2f762",
+          "title": "Колбаса краковская",
+          "article": "123",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 300.0,
+          "height": 200.0,
+          "length": 300.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 8.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "jdwmvgeqz4iwrj0pzrsostqsvytv4ybu",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorLoadCapacity"
+      },
+      {
+        "info": {
+          "color": "#d8a129",
+          "title": "Колбаса любительская",
+          "article": "456",
+          "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+          "group_title": "Группа 1"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 200.0,
+          "height": 200.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 9.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "errorLoadCapacity"
+      }
+    ],
+    "packing_type": "PackingLayers",
+    "calculation_id": 13580,
+    "invalid_errors": [],
+    "unpacked_errors": [
+      {
+        "key": 0,
+        "name": "success",
+        "boxes": [
+          {
+            "id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+            "info": {
+              "color": "#ff3dfb",
+              "title": "Сыр Российский",
+              "article": "159",
+              "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+            "info": {
+              "color": "#7a22d8",
+              "title": "Масло сливочное",
+              "article": "789",
+              "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "jdwmvgeqz4iwrj0pzrsostqsvytv4ybu",
+            "info": {
+              "color": "#b2f762",
+              "title": "Колбаса краковская",
+              "article": "123",
+              "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+            "info": {
+              "color": "#d8a129",
+              "title": "Колбаса любительская",
+              "article": "456",
+              "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+              "group_title": "Группа 1"
+            }
+          }
+        ]
+      },
+      {
+        "key": 4,
+        "name": "errorLoadCapacity",
+        "boxes": [
+          {
+            "id": "bvdfblvxlg6d8fvddxpnlhtfojbkjfzz",
+            "info": {
+              "color": "#ff3dfb",
+              "title": "Сыр Российский",
+              "article": "159",
+              "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "htq4imh5pljqxho2hawspesbuqatbfbc",
+            "info": {
+              "color": "#7a22d8",
+              "title": "Масло сливочное",
+              "article": "789",
+              "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "jdwmvgeqz4iwrj0pzrsostqsvytv4ybu",
+            "info": {
+              "color": "#b2f762",
+              "title": "Колбаса краковская",
+              "article": "123",
+              "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "o51gxldkkmffvy1xdk3haufeshrw03fp",
+            "info": {
+              "color": "#d8a129",
+              "title": "Колбаса любительская",
+              "article": "456",
+              "group_id": "1ftx2d8jqc6ck0flw2b78mmrycuyjnba",
+              "group_title": "Группа 1"
+            }
+          }
+        ]
+      }
+    ],
+    "validate_errors": [
+      "ERROR_INDENTATION"
+    ],
+    "is_packed_same_boxes": false
+  }
+}

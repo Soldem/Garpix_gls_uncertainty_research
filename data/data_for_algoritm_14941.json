@@ -1,0 +1,2468 @@
+{
+  "data": {
+    "cargoes": [
+      {
+        "info": {
+          "color": "#e4d454",
+          "title": "SUB10G",
+          "article": "20",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 21.5,
+        "size": {
+          "width": 450,
+          "height": 470,
+          "length": 440
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 15,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "uito7fsgj15vvufaunallaicyzkdasmf",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#cedad4",
+          "title": "M808A",
+          "article": "19",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 136.0,
+        "size": {
+          "width": 980,
+          "height": 490,
+          "length": 1620
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "n68u3quiwjmvapnyyx99grsknvzpxdjl",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#ef088d",
+          "title": "M806A",
+          "article": "18",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 61.4,
+        "size": {
+          "width": 870,
+          "height": 510,
+          "length": 1410
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "5046azz1w7gb0ilhf6bbdgfejcvpbccr",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#5ec381",
+          "title": "M300MKII",
+          "article": "17",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 29.5,
+        "size": {
+          "width": 380,
+          "height": 520,
+          "length": 650
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 23,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "uajsdopqjx6ngw8wfiroimrms9y2md1o",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#ae7254",
+          "title": "D300",
+          "article": "16",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 400,
+          "height": 450,
+          "length": 630
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 24,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "sb1xj6kemlvscu8yaioynifuuqpccumd",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#0b8cac",
+          "title": "DIVA 6.3F",
+          "article": "14",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 5.7,
+        "size": {
+          "width": 390,
+          "height": 330,
+          "length": 510
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 4,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "oxicbu8efz1ccygim5r3tuc4k5zaay7l",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#94f88b",
+          "title": "DIVA 8.3",
+          "article": "13",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 38.0,
+        "size": {
+          "width": 480,
+          "height": 530,
+          "length": 1200
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 2,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "02jdxyln4fd7dkmwbynxernungr5mpkw",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#87a18b",
+          "title": "RM800F",
+          "article": "12",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 48.0,
+        "size": {
+          "width": 720,
+          "height": 600,
+          "length": 1420
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 8,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "nxu4puvso1ndd3qfinebeesyl9agdfxq",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#fcf3fa",
+          "title": "RM600AMKII-R",
+          "article": "11",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 18.2,
+        "size": {
+          "width": 430,
+          "height": 400,
+          "length": 740
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 5,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "l4nedkjynnikuwfznqdrfzrdwvjpga44",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#55c6b6",
+          "title": "RM600AMKII-C",
+          "article": "10",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 8.0,
+        "size": {
+          "width": 410,
+          "height": 310,
+          "length": 530
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 5,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "2jnrcpnmc4jrzfyynidtrgc7ctufdmpv",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#c50b67",
+          "title": "RM600AMKII",
+          "article": "9",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 33.6,
+        "size": {
+          "width": 490,
+          "height": 570,
+          "length": 1290
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 2,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "a2zomalji6wsc0uixogr8kymj66jgzx4",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#2edd66",
+          "title": "D3.2C",
+          "article": "7",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 16.0,
+        "size": {
+          "width": 380,
+          "height": 330,
+          "length": 740
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 10,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "0okl6fvu1xebncpyg1tizbdc2uuoslz4",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#29a7bc",
+          "title": "D3.2R",
+          "article": "6",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 13.5,
+        "size": {
+          "width": 400,
+          "height": 440,
+          "length": 440
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 10,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "bse8gcpfjzmqvfvlfqel33fs2zp4evu4",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280,
+          "height": 380,
+          "length": 490
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 25,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290,
+          "height": 290,
+          "length": 520
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 25,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "xza21nkya9deyp1yga4jhkv0hvwrgqef",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320,
+          "height": 430,
+          "length": 1070
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 10,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "uun3kfb3aeehfehyn5gwot3osyktmov2",
+        "stacking": true,
+        "turnover": false,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      }
+    ],
+    "settings": {
+      "rank": false,
+      "max_step": 100,
+      "min_step": 50,
+      "usersort": false,
+      "hardlimit": 1801,
+      "timelimit": 1800,
+      "step_scaling": 10
+    },
+    "put_boxes": [],
+    "initial_id": 0,
+    "cargo_space": {
+      "id": 1045,
+      "info": {
+        "uid": "1045_0",
+        "sort": 0,
+        "title": "EURO (copy)",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20,
+      "size": {
+        "width": 800,
+        "height": 200,
+        "length": 1200
+      },
+      "type": "pallet",
+      "axles": [],
+      "title": "EURO (copy)",
+      "margin": {
+        "width": 0,
+        "height": 0,
+        "length": 0
+      },
+      "indentation": {
+        "width": 0,
+        "height": 0,
+        "length": 0,
+        "height_top": 0,
+        "length_end": 0,
+        "width_right": 0
+      },
+      "loading_size": {
+        "width": 800,
+        "height": 2500,
+        "length": 1200
+      },
+      "carrying_capacity": 1000
+    },
+    "calculation_id": "14941"
+  },
+  "data_result": {
+    "boxes": [
+      {
+        "id": 111,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 110,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 2,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 113,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 3,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 0.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 112,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 4,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 116,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 5,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 280.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 117,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 6,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 280.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 114,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 7,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 280.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 115,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 8,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 280.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 119,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 9,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 560.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 118,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 10,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 560.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 121,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 11,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 560.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 120,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 12,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 560.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 124,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 13,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 840.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 125,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 14,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 840.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 122,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 15,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 840.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 123,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 16,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 840.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 127,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 17,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 1120.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 126,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 18,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 1120.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 129,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 19,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 1120.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 128,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 20,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 1120.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 132,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 21,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 1400.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 133,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 22,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 0.0,
+          "y": 1400.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 130,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 23,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 1400.0,
+          "z": 400.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 131,
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "step": 24,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "position": {
+          "x": 550.0,
+          "y": 1400.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 4,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 380.0,
+          "height": 280.0,
+          "length": 490.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 65,
+        "info": {
+          "color": "#0b8cac",
+          "title": "DIVA 6.3F",
+          "article": "14",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 5.7,
+        "size": {
+          "width": 390.0,
+          "height": 330.0,
+          "length": 510.0
+        },
+        "sort": 1,
+        "step": 25,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "oxicbu8efz1ccygim5r3tuc4k5zaay7l",
+        "position": {
+          "x": 0.0,
+          "y": 1680.0,
+          "z": 390.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 330.0,
+          "length": 510.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 64,
+        "info": {
+          "color": "#0b8cac",
+          "title": "DIVA 6.3F",
+          "article": "14",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 5.7,
+        "size": {
+          "width": 390.0,
+          "height": 330.0,
+          "length": 510.0
+        },
+        "sort": 1,
+        "step": 26,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "oxicbu8efz1ccygim5r3tuc4k5zaay7l",
+        "position": {
+          "x": 0.0,
+          "y": 1680.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 330.0,
+          "length": 510.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 67,
+        "info": {
+          "color": "#0b8cac",
+          "title": "DIVA 6.3F",
+          "article": "14",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 5.7,
+        "size": {
+          "width": 390.0,
+          "height": 330.0,
+          "length": 510.0
+        },
+        "sort": 1,
+        "step": 27,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "oxicbu8efz1ccygim5r3tuc4k5zaay7l",
+        "position": {
+          "x": 530.0,
+          "y": 1680.0,
+          "z": 390.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 330.0,
+          "length": 510.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 66,
+        "info": {
+          "color": "#0b8cac",
+          "title": "DIVA 6.3F",
+          "article": "14",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 5.7,
+        "size": {
+          "width": 390.0,
+          "height": 330.0,
+          "length": 510.0
+        },
+        "sort": 1,
+        "step": 28,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "oxicbu8efz1ccygim5r3tuc4k5zaay7l",
+        "position": {
+          "x": 530.0,
+          "y": 1680.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 390.0,
+          "height": 330.0,
+          "length": 510.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 136,
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "sort": 1,
+        "step": 29,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xza21nkya9deyp1yga4jhkv0hvwrgqef",
+        "position": {
+          "x": 0.0,
+          "y": 2010.0,
+          "z": 290.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 135,
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "sort": 1,
+        "step": 30,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xza21nkya9deyp1yga4jhkv0hvwrgqef",
+        "position": {
+          "x": 0.0,
+          "y": 2010.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 138,
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "sort": 1,
+        "step": 31,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xza21nkya9deyp1yga4jhkv0hvwrgqef",
+        "position": {
+          "x": 520.0,
+          "y": 2010.0,
+          "z": 290.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 137,
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "sort": 1,
+        "step": 32,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xza21nkya9deyp1yga4jhkv0hvwrgqef",
+        "position": {
+          "x": 520.0,
+          "y": 2010.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "virtual_positions": null
+      }
+    ],
+    "version": 5,
+    "cargo_space": {
+      "id": 1045,
+      "info": {
+        "uid": "1045_0",
+        "sort": 0,
+        "title": "EURO (copy)",
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        }
+      },
+      "mass": 20.0,
+      "size": {
+        "width": 800.0,
+        "height": 200.0,
+        "length": 1200.0
+      },
+      "type": "pallet",
+      "indentation": {
+        "width": 0.0,
+        "height": 0.0,
+        "length": 0.0,
+        "height_top": -2300.0,
+        "length_end": 0.0,
+        "width_right": 0.0
+      },
+      "loading_size": {
+        "width": 800.0,
+        "height": 2500.0,
+        "length": 1200.0
+      },
+      "calculation_info": {
+        "step_count": 32,
+        "cargos_mass": 0.2808,
+        "load_volume": 2.4,
+        "cargos_volume": 1.68874,
+        "count_cargoes": 32,
+        "load_capacity": 1.0,
+        "loading_height": 2.3,
+        "density_percent": 90.51218,
+        "remaining_volume": 0.71126,
+        "void_space_percent": 29.63583,
+        "filling_space_percent": 70.36417
+      },
+      "carrying_capacity": 1000.0,
+      "real_center_of_gravity": [
+        520.0,
+        1062.0940170940173,
+        379.3162393162394
+      ],
+      "ideal_center_of_gravity": [
+        600.0,
+        0.0,
+        400.0
+      ]
+    },
+    "cargo_groups": [
+      {
+        "info": {
+          "color": "#680009",
+          "title": "JamLab 6R",
+          "article": "4",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 9.5,
+        "size": {
+          "width": 280.0,
+          "height": 380.0,
+          "length": 490.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#cedad4",
+          "title": "M808A",
+          "article": "19",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 136.0,
+        "size": {
+          "width": 980.0,
+          "height": 490.0,
+          "length": 1620.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "n68u3quiwjmvapnyyx99grsknvzpxdjl",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#ef088d",
+          "title": "M806A",
+          "article": "18",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 61.4,
+        "size": {
+          "width": 870.0,
+          "height": 510.0,
+          "length": 1410.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "5046azz1w7gb0ilhf6bbdgfejcvpbccr",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#ae7254",
+          "title": "D300",
+          "article": "16",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 20.0,
+        "size": {
+          "width": 400.0,
+          "height": 450.0,
+          "length": 630.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 24.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "sb1xj6kemlvscu8yaioynifuuqpccumd",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#c50b67",
+          "title": "RM600AMKII",
+          "article": "9",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 33.6,
+        "size": {
+          "width": 490.0,
+          "height": 570.0,
+          "length": 1290.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 2.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "a2zomalji6wsc0uixogr8kymj66jgzx4",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#5ec381",
+          "title": "M300MKII",
+          "article": "17",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 29.5,
+        "size": {
+          "width": 380.0,
+          "height": 520.0,
+          "length": 650.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 23.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "uajsdopqjx6ngw8wfiroimrms9y2md1o",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#94f88b",
+          "title": "DIVA 8.3",
+          "article": "13",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 38.0,
+        "size": {
+          "width": 480.0,
+          "height": 530.0,
+          "length": 1200.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 2.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "02jdxyln4fd7dkmwbynxernungr5mpkw",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#29a7bc",
+          "title": "D3.2R",
+          "article": "6",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 13.5,
+        "size": {
+          "width": 400.0,
+          "height": 440.0,
+          "length": 440.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 10.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bse8gcpfjzmqvfvlfqel33fs2zp4evu4",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#e4d454",
+          "title": "SUB10G",
+          "article": "20",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 21.5,
+        "size": {
+          "width": 440.0,
+          "height": 470.0,
+          "length": 450.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 15.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "uito7fsgj15vvufaunallaicyzkdasmf",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#55c6b6",
+          "title": "RM600AMKII-C",
+          "article": "10",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 8.0,
+        "size": {
+          "width": 410.0,
+          "height": 310.0,
+          "length": 530.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 5.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "2jnrcpnmc4jrzfyynidtrgc7ctufdmpv",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#fcf3fa",
+          "title": "RM600AMKII-R",
+          "article": "11",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 18.2,
+        "size": {
+          "width": 430.0,
+          "height": 400.0,
+          "length": 740.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 5.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "l4nedkjynnikuwfznqdrfzrdwvjpga44",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#2edd66",
+          "title": "D3.2C",
+          "article": "7",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 16.0,
+        "size": {
+          "width": 380.0,
+          "height": 330.0,
+          "length": 740.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 10.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "0okl6fvu1xebncpyg1tizbdc2uuoslz4",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#6a5d24",
+          "title": "JamLab 6C",
+          "article": "3",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 7.5,
+        "size": {
+          "width": 290.0,
+          "height": 290.0,
+          "length": 520.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 21.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xza21nkya9deyp1yga4jhkv0hvwrgqef",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#94cd2a",
+          "title": "JamLab 6",
+          "article": "1",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 24.2,
+        "size": {
+          "width": 320.0,
+          "height": 430.0,
+          "length": 1070.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 10.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "uun3kfb3aeehfehyn5gwot3osyktmov2",
+        "stacking": true,
+        "turnover": false,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      },
+      {
+        "info": {
+          "color": "#87a18b",
+          "title": "RM800F",
+          "article": "12",
+          "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+          "group_title": "Группа 1"
+        },
+        "mass": 48.0,
+        "size": {
+          "width": 720.0,
+          "height": 600.0,
+          "length": 1420.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 8.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "nxu4puvso1ndd3qfinebeesyl9agdfxq",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      }
+    ],
+    "packing_type": "PackingPalletBlocks",
+    "calculation_id": 14941,
+    "invalid_errors": [],
+    "unpacked_errors": [
+      {
+        "key": 0,
+        "name": "success",
+        "boxes": [
+          {
+            "id": "cdidlyx0oh4h93xdf8epywptaoyv1qlr",
+            "info": {
+              "color": "#680009",
+              "title": "JamLab 6R",
+              "article": "4",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "n68u3quiwjmvapnyyx99grsknvzpxdjl",
+            "info": {
+              "color": "#cedad4",
+              "title": "M808A",
+              "article": "19",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "5046azz1w7gb0ilhf6bbdgfejcvpbccr",
+            "info": {
+              "color": "#ef088d",
+              "title": "M806A",
+              "article": "18",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "sb1xj6kemlvscu8yaioynifuuqpccumd",
+            "info": {
+              "color": "#ae7254",
+              "title": "D300",
+              "article": "16",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "a2zomalji6wsc0uixogr8kymj66jgzx4",
+            "info": {
+              "color": "#c50b67",
+              "title": "RM600AMKII",
+              "article": "9",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "uajsdopqjx6ngw8wfiroimrms9y2md1o",
+            "info": {
+              "color": "#5ec381",
+              "title": "M300MKII",
+              "article": "17",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "02jdxyln4fd7dkmwbynxernungr5mpkw",
+            "info": {
+              "color": "#94f88b",
+              "title": "DIVA 8.3",
+              "article": "13",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "bse8gcpfjzmqvfvlfqel33fs2zp4evu4",
+            "info": {
+              "color": "#29a7bc",
+              "title": "D3.2R",
+              "article": "6",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "uito7fsgj15vvufaunallaicyzkdasmf",
+            "info": {
+              "color": "#e4d454",
+              "title": "SUB10G",
+              "article": "20",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "2jnrcpnmc4jrzfyynidtrgc7ctufdmpv",
+            "info": {
+              "color": "#55c6b6",
+              "title": "RM600AMKII-C",
+              "article": "10",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "l4nedkjynnikuwfznqdrfzrdwvjpga44",
+            "info": {
+              "color": "#fcf3fa",
+              "title": "RM600AMKII-R",
+              "article": "11",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "0okl6fvu1xebncpyg1tizbdc2uuoslz4",
+            "info": {
+              "color": "#2edd66",
+              "title": "D3.2C",
+              "article": "7",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "xza21nkya9deyp1yga4jhkv0hvwrgqef",
+            "info": {
+              "color": "#6a5d24",
+              "title": "JamLab 6C",
+              "article": "3",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "uun3kfb3aeehfehyn5gwot3osyktmov2",
+            "info": {
+              "color": "#94cd2a",
+              "title": "JamLab 6",
+              "article": "1",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          },
+          {
+            "id": "nxu4puvso1ndd3qfinebeesyl9agdfxq",
+            "info": {
+              "color": "#87a18b",
+              "title": "RM800F",
+              "article": "12",
+              "group_id": "1srn2ktjigkxhwyukbivcrwypo11gvg3",
+              "group_title": "Группа 1"
+            }
+          }
+        ]
+      }
+    ],
+    "validate_errors": [
+      "ERROR_INDENTATION"
+    ],
+    "is_packed_same_boxes": false
+  }
+}

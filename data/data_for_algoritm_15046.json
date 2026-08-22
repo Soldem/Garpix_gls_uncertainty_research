@@ -1,0 +1,1863 @@
+{
+  "data": {
+    "cargoes": [
+      {
+        "info": {
+          "color": "#3996a0",
+          "title": "Seramix 1",
+          "article": "",
+          "group_id": "1ue29yvpwkqliuf1ziu3kp3tdsshs71w",
+          "group_title": "Группа 1"
+        },
+        "mass": 3.0,
+        "size": {
+          "width": 300,
+          "height": 300,
+          "length": 400
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "bi6ialxbuuaio6c5scsjiaqravzgextf",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#f73127",
+          "title": "Seramix 2",
+          "article": "",
+          "group_id": "1ue29yvpwkqliuf1ziu3kp3tdsshs71w",
+          "group_title": "Группа 1"
+        },
+        "mass": 1059.0,
+        "size": {
+          "width": 870,
+          "height": 1960,
+          "length": 1770
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "9bhwulaehqxjddaoqf1lt5n9mitlsgcf",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#7f3cea",
+          "title": "Seramix 3",
+          "article": "",
+          "group_id": "1ue29yvpwkqliuf1ziu3kp3tdsshs71w",
+          "group_title": "Группа 1"
+        },
+        "mass": 965.0,
+        "size": {
+          "width": 1770,
+          "height": 1680,
+          "length": 1770
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "stxmxpyplztxgwnggvsmex7a7h6k6pla",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#c63465",
+          "title": "TAT Muhendislik Otomotiv San ve Tic. Ltd Sti 4",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 95.0,
+        "size": {
+          "width": 400,
+          "height": 400,
+          "length": 3000
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "yoqu5rzx2ejlo6gy0ouury566wthro1d",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#c6a983",
+          "title": "TAT Muhendislik Otomotiv San ve Tic. Ltd Sti 3",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 95.0,
+        "size": {
+          "width": 400,
+          "height": 400,
+          "length": 3000
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "kni39f2z4kxna3vt6yce2muii7ltlidu",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#c1efd5",
+          "title": "TAT Muhendislik Otomotiv San ve Tic. Ltd Sti 2",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 100.0,
+        "size": {
+          "width": 400,
+          "height": 400,
+          "length": 3000
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "jqjkpidkcugvwisydlj9ebbpiovsme5h",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#b4cee2",
+          "title": "TAT Muhendislik Otomotiv San ve Tic. Ltd Sti 1",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 100.0,
+        "size": {
+          "width": 400,
+          "height": 400,
+          "length": 3000
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "tioi8owa4fdz8hlr74nsomzn56lxbbys",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#961466",
+          "title": "KAVURLAR MAKINA",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 410,
+          "height": 330,
+          "length": 270
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "orratfoaykkjxm0fgnptcubrsfwi6xmr",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#9d63d7",
+          "title": "INTERLAB LABORATUAR URUNLERI SAN. TIC.  A.S.",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 60.0,
+        "size": {
+          "width": 800,
+          "height": 1360,
+          "length": 1200
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "lid5ml8av6ysa9y4v8w4qdhfdpcohsxw",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#889614",
+          "title": "TMAK GIDA MAKİNELERİ A.Ş. - Kurabiye Makinesi 3",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 380.0,
+        "size": {
+          "width": 2150,
+          "height": 1430,
+          "length": 2450
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "3fvq8lekeegchwqfb4gv1kbjh8jdnr8y",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#13964c",
+          "title": "TMAK GIDA MAKİNELERİ A.Ş. - Kurabiye Makinesi 2",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 250.0,
+        "size": {
+          "width": 680,
+          "height": 1500,
+          "length": 1850
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "eft68rye7yu5zbttpxdtcvtrpow0uwb0",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#551496",
+          "title": "TMAK GIDA MAKİNELERİ A.Ş. - Kurabiye Makinesi 1",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 250.0,
+        "size": {
+          "width": 1000,
+          "height": 1950,
+          "length": 1000
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "uvcz1d3oatgh8wi7fa6zac1sqaacygdt",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#0f9e71",
+          "title": "Endo Endustriyel Donanım ve Otomasyon Sist",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 85.0,
+        "size": {
+          "width": 800,
+          "height": 650,
+          "length": 620
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "mo8unemc4dptslcxftt7iicqrhbuimnr",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#7841a8",
+          "title": "EGES ELEKTRİK VE ELEKTRONİK GEREÇLER SANAYİ VE TİCARET A.S.",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 745.0,
+        "size": {
+          "width": 1700,
+          "height": 300,
+          "length": 600
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "6twa8pzpaj85jymxwnitgoflqypzri84",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#26af11",
+          "title": "Vi Makina Enerji Elektrik Icecek San. Ve Tic. Ltd. Şti",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 677.0,
+        "size": {
+          "width": 500,
+          "height": 700,
+          "length": 2900
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "koec62abelu3kuoguh0t5nh4oclqnmml",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#bfed4b",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ 5",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 40.0,
+        "size": {
+          "width": 400,
+          "height": 270,
+          "length": 580
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "jdtrfkjmd74xav0wd1qhaxlpeixyxuxc",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#310ba3",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ 4",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 40.0,
+        "size": {
+          "width": 400,
+          "height": 270,
+          "length": 580
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "dxa0py9g7cxaxdtqa2gfcficoevdjefk",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#6c3cfc",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ  3",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 12.0,
+        "size": {
+          "width": 260,
+          "height": 130,
+          "length": 370
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "hbdohid672pnvzbv9isva0zbtvnlokyt",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#4bea6d",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ 2",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 44.0,
+        "size": {
+          "width": 400,
+          "height": 270,
+          "length": 580
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "jwdwygprtpv7zomvtjmod0uz3u7htzas",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#efec4c",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ 1",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 63.0,
+        "size": {
+          "width": 400,
+          "height": 250,
+          "length": 580
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "v0x0z0iuobrraqkhijr5ymsosuyzyxxx",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#a1fc19",
+          "title": "Orsan Ticari Araç Fren Sistemleri A.Ş. 3",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 200.0,
+        "size": {
+          "width": 800,
+          "height": 1000,
+          "length": 1200
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "4povbyyhf35f1z6tcfypumwex13slm1d",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#db8f60",
+          "title": "Orsan Ticari Araç Fren Sistemleri A.Ş. 2",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 200.0,
+        "size": {
+          "width": 800,
+          "height": 1000,
+          "length": 1200
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "aukt3rnppmmsypzhm25gxakcvlaup0ag",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#ce8d14",
+          "title": "Orsan Ticari Araç Fren Sistemleri A.Ş. 1",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 205.0,
+        "size": {
+          "width": 800,
+          "height": 1000,
+          "length": 1200
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "esu99q04gwowypbvh9xwliwuey3fvsja",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#d12187",
+          "title": "Özbekoğlu",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 400.0,
+        "size": {
+          "width": 1400,
+          "height": 2200,
+          "length": 1200
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "n8lno5lgecpkujbhld7gxwwbt8ejnpvg",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      },
+      {
+        "info": {
+          "color": "#13964c",
+          "title": "INNdeco KAGIT TEKNOLOJILERI A.Ş.",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 152.0,
+        "size": {
+          "width": 600,
+          "height": 530,
+          "length": 800
+        },
+        "sort": 2,
+        "type": "box",
+        "count": 1,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "jbb2aaonaopkmxenwz1syqr7mxtefhdl",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      }
+    ],
+    "settings": {
+      "rank": false,
+      "max_step": 100,
+      "min_step": 50,
+      "usersort": false,
+      "hardlimit": 1801,
+      "timelimit": 1800,
+      "step_scaling": 10
+    },
+    "put_boxes": [],
+    "initial_id": 0,
+    "cargo_space": {
+      "id": 1092,
+      "info": {
+        "uid": "1092_0",
+        "sort": 0,
+        "title": "Сороковка 4й Контейнер"
+      },
+      "mass": 4200,
+      "size": {
+        "width": 2438,
+        "height": 2896,
+        "length": 12192
+      },
+      "type": "container",
+      "axles": [],
+      "title": "Сороковка 4й Контейнер",
+      "indentation": {
+        "width": 39,
+        "height": 0,
+        "length": 85,
+        "height_top": 196,
+        "length_end": 85,
+        "width_right": 40
+      },
+      "loading_size": {
+        "width": 2359,
+        "height": 2700,
+        "length": 12022
+      },
+      "carrying_capacity": 26330
+    },
+    "calculation_id": "15046"
+  },
+  "data_result": {
+    "boxes": [
+      {
+        "id": 5,
+        "info": {
+          "color": "#c1efd5",
+          "title": "TAT Muhendislik Otomotiv San ve Tic. Ltd Sti 2",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 100.0,
+        "size": {
+          "width": 400.0,
+          "height": 400.0,
+          "length": 3000.0
+        },
+        "sort": 2,
+        "step": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "jqjkpidkcugvwisydlj9ebbpiovsme5h",
+        "position": {
+          "x": 1317.8812199036893,
+          "y": 0.0,
+          "z": 1959.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 400.0,
+          "length": 3000.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 6,
+        "info": {
+          "color": "#b4cee2",
+          "title": "TAT Muhendislik Otomotiv San ve Tic. Ltd Sti 1",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 100.0,
+        "size": {
+          "width": 400.0,
+          "height": 400.0,
+          "length": 3000.0
+        },
+        "sort": 2,
+        "step": 2,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "tioi8owa4fdz8hlr74nsomzn56lxbbys",
+        "position": {
+          "x": 1317.8812199036893,
+          "y": 0.0,
+          "z": 1559.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 400.0,
+          "length": 3000.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 3,
+        "info": {
+          "color": "#c63465",
+          "title": "TAT Muhendislik Otomotiv San ve Tic. Ltd Sti 4",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 95.0,
+        "size": {
+          "width": 400.0,
+          "height": 400.0,
+          "length": 3000.0
+        },
+        "sort": 2,
+        "step": 3,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "yoqu5rzx2ejlo6gy0ouury566wthro1d",
+        "position": {
+          "x": 1317.8812199036893,
+          "y": 400.0,
+          "z": 1959.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 400.0,
+          "length": 3000.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 4,
+        "info": {
+          "color": "#c6a983",
+          "title": "TAT Muhendislik Otomotiv San ve Tic. Ltd Sti 3",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 95.0,
+        "size": {
+          "width": 400.0,
+          "height": 400.0,
+          "length": 3000.0
+        },
+        "sort": 2,
+        "step": 4,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "kni39f2z4kxna3vt6yce2muii7ltlidu",
+        "position": {
+          "x": 1317.8812199036893,
+          "y": 400.0,
+          "z": 1559.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 400.0,
+          "length": 3000.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 16,
+        "info": {
+          "color": "#310ba3",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ 4",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 40.0,
+        "size": {
+          "width": 400.0,
+          "height": 270.0,
+          "length": 580.0
+        },
+        "sort": 2,
+        "step": 5,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "dxa0py9g7cxaxdtqa2gfcficoevdjefk",
+        "position": {
+          "x": 1497.8812199036893,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 2,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 580.0,
+          "length": 270.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 18,
+        "info": {
+          "color": "#4bea6d",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ 2",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 44.0,
+        "size": {
+          "width": 400.0,
+          "height": 270.0,
+          "length": 580.0
+        },
+        "sort": 2,
+        "step": 6,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "jwdwygprtpv7zomvtjmod0uz3u7htzas",
+        "position": {
+          "x": 1767.8812199036893,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 2,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 580.0,
+          "length": 270.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 19,
+        "info": {
+          "color": "#efec4c",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ 1",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 63.0,
+        "size": {
+          "width": 400.0,
+          "height": 250.0,
+          "length": 580.0
+        },
+        "sort": 2,
+        "step": 7,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "v0x0z0iuobrraqkhijr5ymsosuyzyxxx",
+        "position": {
+          "x": 2037.8812199036893,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 2,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 580.0,
+          "length": 250.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 21,
+        "info": {
+          "color": "#db8f60",
+          "title": "Orsan Ticari Araç Fren Sistemleri A.Ş. 2",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 200.0,
+        "size": {
+          "width": 800.0,
+          "height": 1000.0,
+          "length": 1200.0
+        },
+        "sort": 2,
+        "step": 8,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "aukt3rnppmmsypzhm25gxakcvlaup0ag",
+        "position": {
+          "x": 2287.8812199036893,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1000.0,
+          "height": 1200.0,
+          "length": 800.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 10,
+        "info": {
+          "color": "#13964c",
+          "title": "TMAK GIDA MAKİNELERİ A.Ş. - Kurabiye Makinesi 2",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 250.0,
+        "size": {
+          "width": 680.0,
+          "height": 1500.0,
+          "length": 1850.0
+        },
+        "sort": 2,
+        "step": 9,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "eft68rye7yu5zbttpxdtcvtrpow0uwb0",
+        "position": {
+          "x": 3087.8812199036893,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1500.0,
+          "height": 1850.0,
+          "length": 680.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 13,
+        "info": {
+          "color": "#7841a8",
+          "title": "EGES ELEKTRİK VE ELEKTRONİK GEREÇLER SANAYİ VE TİCARET A.S.",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 745.0,
+        "size": {
+          "width": 1700.0,
+          "height": 300.0,
+          "length": 600.0
+        },
+        "sort": 2,
+        "step": 10,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "6twa8pzpaj85jymxwnitgoflqypzri84",
+        "position": {
+          "x": 4317.881219903689,
+          "y": 0.0,
+          "z": 1759.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 600.0,
+          "height": 1700.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 23,
+        "info": {
+          "color": "#d12187",
+          "title": "Özbekoğlu",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 400.0,
+        "size": {
+          "width": 1400.0,
+          "height": 2200.0,
+          "length": 1200.0
+        },
+        "sort": 2,
+        "step": 11,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "n8lno5lgecpkujbhld7gxwwbt8ejnpvg",
+        "position": {
+          "x": 3767.8812199036893,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1400.0,
+          "height": 2200.0,
+          "length": 1200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 14,
+        "info": {
+          "color": "#26af11",
+          "title": "Vi Makina Enerji Elektrik Icecek San. Ve Tic. Ltd. Şti",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 677.0,
+        "size": {
+          "width": 500.0,
+          "height": 700.0,
+          "length": 2900.0
+        },
+        "sort": 2,
+        "step": 12,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "koec62abelu3kuoguh0t5nh4oclqnmml",
+        "position": {
+          "x": 4617.881219903689,
+          "y": 0.0,
+          "z": 1859.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 2,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 500.0,
+          "height": 700.0,
+          "length": 2900.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 1,
+        "info": {
+          "color": "#f73127",
+          "title": "Seramix 2",
+          "article": "",
+          "group_id": "1ue29yvpwkqliuf1ziu3kp3tdsshs71w",
+          "group_title": "Группа 1"
+        },
+        "mass": 1059.0,
+        "size": {
+          "width": 870.0,
+          "height": 1960.0,
+          "length": 1770.0
+        },
+        "sort": 1,
+        "step": 13,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "9bhwulaehqxjddaoqf1lt5n9mitlsgcf",
+        "position": {
+          "x": 4967.881219903689,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1770.0,
+          "height": 1960.0,
+          "length": 870.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 2,
+        "info": {
+          "color": "#7f3cea",
+          "title": "Seramix 3",
+          "article": "",
+          "group_id": "1ue29yvpwkqliuf1ziu3kp3tdsshs71w",
+          "group_title": "Группа 1"
+        },
+        "mass": 965.0,
+        "size": {
+          "width": 1770.0,
+          "height": 1680.0,
+          "length": 1770.0
+        },
+        "sort": 1,
+        "step": 14,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "stxmxpyplztxgwnggvsmex7a7h6k6pla",
+        "position": {
+          "x": 5837.881219903689,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1770.0,
+          "height": 1770.0,
+          "length": 1680.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 9,
+        "info": {
+          "color": "#889614",
+          "title": "TMAK GIDA MAKİNELERİ A.Ş. - Kurabiye Makinesi 3",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 380.0,
+        "size": {
+          "width": 2150.0,
+          "height": 1430.0,
+          "length": 2450.0
+        },
+        "sort": 2,
+        "step": 15,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "3fvq8lekeegchwqfb4gv1kbjh8jdnr8y",
+        "position": {
+          "x": 7517.881219903689,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 2150.0,
+          "height": 2450.0,
+          "length": 1430.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 24,
+        "info": {
+          "color": "#13964c",
+          "title": "INNdeco KAGIT TEKNOLOJILERI A.Ş.",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 152.0,
+        "size": {
+          "width": 600.0,
+          "height": 530.0,
+          "length": 800.0
+        },
+        "sort": 2,
+        "step": 16,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "jbb2aaonaopkmxenwz1syqr7mxtefhdl",
+        "position": {
+          "x": 8987.88121990369,
+          "y": 0.0,
+          "z": 1759.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 600.0,
+          "height": 800.0,
+          "length": 530.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 22,
+        "info": {
+          "color": "#ce8d14",
+          "title": "Orsan Ticari Araç Fren Sistemleri A.Ş. 1",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 205.0,
+        "size": {
+          "width": 800.0,
+          "height": 1000.0,
+          "length": 1200.0
+        },
+        "sort": 2,
+        "step": 17,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "esu99q04gwowypbvh9xwliwuey3fvsja",
+        "position": {
+          "x": 9517.88121990369,
+          "y": 0.0,
+          "z": 1359.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1000.0,
+          "height": 1200.0,
+          "length": 800.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 11,
+        "info": {
+          "color": "#551496",
+          "title": "TMAK GIDA MAKİNELERİ A.Ş. - Kurabiye Makinesi 1",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 250.0,
+        "size": {
+          "width": 1000.0,
+          "height": 1950.0,
+          "length": 1000.0
+        },
+        "sort": 2,
+        "step": 18,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "uvcz1d3oatgh8wi7fa6zac1sqaacygdt",
+        "position": {
+          "x": 8947.88121990369,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1000.0,
+          "height": 1950.0,
+          "length": 1000.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 8,
+        "info": {
+          "color": "#9d63d7",
+          "title": "INTERLAB LABORATUAR URUNLERI SAN. TIC.  A.S.",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 60.0,
+        "size": {
+          "width": 800.0,
+          "height": 1360.0,
+          "length": 1200.0
+        },
+        "sort": 2,
+        "step": 19,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "lid5ml8av6ysa9y4v8w4qdhfdpcohsxw",
+        "position": {
+          "x": 10317.88121990369,
+          "y": 0.0,
+          "z": 1159.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1200.0,
+          "height": 1360.0,
+          "length": 800.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 20,
+        "info": {
+          "color": "#a1fc19",
+          "title": "Orsan Ticari Araç Fren Sistemleri A.Ş. 3",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 200.0,
+        "size": {
+          "width": 800.0,
+          "height": 1000.0,
+          "length": 1200.0
+        },
+        "sort": 2,
+        "step": 20,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "4povbyyhf35f1z6tcfypumwex13slm1d",
+        "position": {
+          "x": 9947.88121990369,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": false,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 1000.0,
+          "height": 1200.0,
+          "length": 800.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 15,
+        "info": {
+          "color": "#bfed4b",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ 5",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 40.0,
+        "size": {
+          "width": 400.0,
+          "height": 270.0,
+          "length": 580.0
+        },
+        "sort": 2,
+        "step": 21,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "jdtrfkjmd74xav0wd1qhaxlpeixyxuxc",
+        "position": {
+          "x": 11117.88121990369,
+          "y": 0.0,
+          "z": 1959.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 2,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 580.0,
+          "length": 270.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 12,
+        "info": {
+          "color": "#0f9e71",
+          "title": "Endo Endustriyel Donanım ve Otomasyon Sist",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 85.0,
+        "size": {
+          "width": 800.0,
+          "height": 650.0,
+          "length": 620.0
+        },
+        "sort": 2,
+        "step": 22,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "mo8unemc4dptslcxftt7iicqrhbuimnr",
+        "position": {
+          "x": 10747.88121990369,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 800.0,
+          "height": 650.0,
+          "length": 620.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 17,
+        "info": {
+          "color": "#6c3cfc",
+          "title": "AVRASYA ENDÜSTRİ VE TEKNINK HIRDAVAT SANTICLTDŞTİ  3",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 12.0,
+        "size": {
+          "width": 260.0,
+          "height": 130.0,
+          "length": 370.0
+        },
+        "sort": 2,
+        "step": 23,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "hbdohid672pnvzbv9isva0zbtvnlokyt",
+        "position": {
+          "x": 11387.88121990369,
+          "y": 0.0,
+          "z": 2099.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 2,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 260.0,
+          "height": 370.0,
+          "length": 130.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 0,
+        "info": {
+          "color": "#3996a0",
+          "title": "Seramix 1",
+          "article": "",
+          "group_id": "1ue29yvpwkqliuf1ziu3kp3tdsshs71w",
+          "group_title": "Группа 1"
+        },
+        "mass": 3.0,
+        "size": {
+          "width": 300.0,
+          "height": 300.0,
+          "length": 400.0
+        },
+        "sort": 1,
+        "step": 24,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "bi6ialxbuuaio6c5scsjiaqravzgextf",
+        "position": {
+          "x": 11517.88121990369,
+          "y": 0.0,
+          "z": 1959.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 400.0,
+          "height": 300.0,
+          "length": 300.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 7,
+        "info": {
+          "color": "#961466",
+          "title": "KAVURLAR MAKINA",
+          "article": "",
+          "group_id": "2nkz3jslmsezvgdjpldnnuldh4qaih98",
+          "group_title": "Группа 2"
+        },
+        "mass": 10.0,
+        "size": {
+          "width": 410.0,
+          "height": 330.0,
+          "length": 270.0
+        },
+        "sort": 2,
+        "step": 25,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "orratfoaykkjxm0fgnptcubrsfwi6xmr",
+        "position": {
+          "x": 11367.88121990369,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 410.0,
+          "height": 330.0,
+          "length": 270.0
+        },
+        "virtual_positions": null
+      }
+    ],
+    "version": 5,
+    "cargo_space": {
+      "id": 1092,
+      "info": {
+        "uid": "1092_0",
+        "sort": 0,
+        "title": "Сороковка 4й Контейнер"
+      },
+      "mass": 4200.0,
+      "size": {
+        "width": 2438.0,
+        "height": 2896.0,
+        "length": 12192.0
+      },
+      "type": "container",
+      "indentation": {
+        "width": 39.0,
+        "height": 0.0,
+        "length": 85.0,
+        "height_top": 196.0,
+        "length_end": 85.0,
+        "width_right": 40.0
+      },
+      "loading_size": {
+        "width": 2359.0,
+        "height": 2700.0,
+        "length": 12022.0
+      },
+      "calculation_info": {
+        "step_count": 25,
+        "cargos_mass": 6.23,
+        "load_volume": 76.5717246,
+        "cargos_volume": 31.68136,
+        "count_cargoes": 25,
+        "load_capacity": 26.33,
+        "loading_height": 2.45,
+        "density_percent": 48.51001,
+        "remaining_volume": 44.89037,
+        "void_space_percent": 58.62525,
+        "filling_space_percent": 41.37475
+      },
+      "carrying_capacity": 26330.0,
+      "real_center_of_gravity": [
+        6011.0,
+        778.0609951845906,
+        1236.3781701444625
+      ],
+      "ideal_center_of_gravity": [
+        6011.0,
+        0.0,
+        1179.5
+      ]
+    },
+    "cargo_groups": [],
+    "packing_type": "PackingContainerPoint",
+    "calculation_id": 15046,
+    "invalid_errors": [],
+    "unpacked_errors": [],
+    "validate_errors": [],
+    "is_packed_same_boxes": false
+  }
+}

@@ -1,0 +1,1789 @@
+{
+  "data": {
+    "cargoes": [
+      {
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100,
+          "height": 70,
+          "length": 200
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 500,
+        "margin": {
+          "width": 0,
+          "height": 0,
+          "length": 0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "stacking": true,
+        "turnover": true,
+        "margin_width": 0,
+        "margin_length": 0,
+        "stacking_limit": 0,
+        "rotation": true
+      }
+    ],
+    "settings": {
+      "rank": false,
+      "max_step": 100,
+      "min_step": 50,
+      "usersort": false,
+      "hardlimit": 1801,
+      "timelimit": 1800,
+      "step_scaling": 10
+    },
+    "put_boxes": [],
+    "initial_id": 0,
+    "cargo_space": {
+      "id": 1064,
+      "info": {
+        "uid": "1064_0",
+        "sort": 0,
+        "title": "КОробка"
+      },
+      "mass": 1,
+      "size": {
+        "width": 400,
+        "height": 600,
+        "length": 400
+      },
+      "type": "container",
+      "axles": [],
+      "title": "КОробка",
+      "indentation": {
+        "width": 0,
+        "height": 0,
+        "length": 0,
+        "height_top": 0,
+        "length_end": 0,
+        "width_right": 0
+      },
+      "loading_size": {
+        "width": 400,
+        "height": 600,
+        "length": 400
+      },
+      "carrying_capacity": 20
+    },
+    "calculation_id": "14781"
+  },
+  "data_result": {
+    "boxes": [
+      {
+        "id": 1,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 1,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 0,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 2,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 3,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 3,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 100.0,
+          "y": 0.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 13,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 4,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 70.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 12,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 5,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 70.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 17,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 6,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 140.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 2,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 7,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 100.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 15,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 8,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 14,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 9,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 70.0,
+          "z": 100.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 16,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 10,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 140.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 19,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 11,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 100.0,
+          "y": 140.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 29,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 12,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 210.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 28,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 13,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 210.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 33,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 14,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 280.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 18,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 15,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 100.0,
+          "y": 140.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 31,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 16,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 210.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 30,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 17,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 210.0,
+          "z": 100.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 32,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 18,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 0.0,
+          "y": 280.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 35,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 19,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 100.0,
+          "y": 280.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 34,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 20,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 100.0,
+          "y": 280.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 7,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 21,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 0.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 6,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 22,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 0.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 5,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 23,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 0.0,
+          "z": 100.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 4,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 24,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 10,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 25,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 70.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 11,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 26,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 8,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 27,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 300.0,
+          "y": 70.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 22,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 28,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 140.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 23,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 29,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 140.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 26,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 30,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 210.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 9,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 31,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 300.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 20,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 32,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 140.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 21,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 33,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 140.0,
+          "z": 100.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 27,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 34,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 210.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 24,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 35,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 300.0,
+          "y": 210.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 38,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 36,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 280.0,
+          "z": 200.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 39,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 37,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 280.0,
+          "z": 300.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 25,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 38,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 300.0,
+          "y": 210.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 1,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 200.0,
+          "height": 70.0,
+          "length": 100.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 36,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 39,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 280.0,
+          "z": 0.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      },
+      {
+        "id": 37,
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "step": 40,
+        "type": "box",
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "position": {
+          "x": 200.0,
+          "y": 280.0,
+          "z": 100.0
+        },
+        "stacking": true,
+        "turnover": true,
+        "rotation_state": 0,
+        "stacking_limit": 0.0,
+        "calculated_size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "virtual_positions": null
+      }
+    ],
+    "version": 5,
+    "cargo_space": {
+      "id": 1064,
+      "info": {
+        "uid": "1064_0",
+        "sort": 0,
+        "title": "КОробка"
+      },
+      "mass": 1.0,
+      "size": {
+        "width": 400.0,
+        "height": 600.0,
+        "length": 400.0
+      },
+      "type": "container",
+      "indentation": {
+        "width": 0.0,
+        "height": 0.0,
+        "length": 0.0,
+        "height_top": 0.0,
+        "length_end": 0.0,
+        "width_right": 0.0
+      },
+      "loading_size": {
+        "width": 400.0,
+        "height": 600.0,
+        "length": 400.0
+      },
+      "calculation_info": {
+        "step_count": 40,
+        "cargos_mass": 0.02,
+        "load_volume": 0.096,
+        "cargos_volume": 0.056,
+        "count_cargoes": 40,
+        "load_capacity": 0.02,
+        "loading_height": 0.35,
+        "density_percent": 100.0,
+        "remaining_volume": 0.04,
+        "void_space_percent": 41.66667,
+        "filling_space_percent": 58.33333
+      },
+      "carrying_capacity": 20.0,
+      "real_center_of_gravity": [
+        200.0,
+        175.0,
+        200.0
+      ],
+      "ideal_center_of_gravity": [
+        200.0,
+        0.0,
+        200.0
+      ]
+    },
+    "cargo_groups": [
+      {
+        "info": {
+          "color": "#d847af",
+          "title": "коробка",
+          "article": "",
+          "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+          "group_title": "Группа 1"
+        },
+        "mass": 0.5,
+        "size": {
+          "width": 100.0,
+          "height": 70.0,
+          "length": 200.0
+        },
+        "sort": 1,
+        "type": "box",
+        "count": 460.0,
+        "margin": {
+          "width": 0.0,
+          "height": 0.0,
+          "length": 0.0
+        },
+        "cargo_id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+        "stacking": true,
+        "turnover": true,
+        "stacking_limit": 0.0,
+        "prepare_last_result": "success"
+      }
+    ],
+    "packing_type": "PackingPalletBlocks",
+    "calculation_id": 14781,
+    "invalid_errors": [],
+    "unpacked_errors": [
+      {
+        "key": 0,
+        "name": "success",
+        "boxes": [
+          {
+            "id": "xazkbxxqatjzkngqrzohizxrjkwydcez",
+            "info": {
+              "color": "#d847af",
+              "title": "коробка",
+              "article": "",
+              "group_id": "1bww00wlqtxj3kvgvpismr8dfzywkzxi",
+              "group_title": "Группа 1"
+            }
+          }
+        ]
+      }
+    ],
+    "validate_errors": [],
+    "is_packed_same_boxes": false
+  }
+}
