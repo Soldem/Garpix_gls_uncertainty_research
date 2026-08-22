@@ -1,0 +1,33 @@
+{
+  "project": 113223,
+  "input_data": {
+    "cargo_spaces": [],
+    "groups": [
+      {
+        "title": "PermTest",
+        "group_id": 1,
+        "sort": 1,
+        "pallet": null,
+        "cargoes": [
+          {
+            "cargo_id": "PERM_TEST_1",
+            "external_id": "PERM_TEST_1",
+            "title": "PERM_TEST_1",
+            "type": "box",
+            "length": 1200,
+            "width": 800,
+            "height": 1000,
+            "mass": 10,
+            "count": 1,
+            "turnover": true,
+            "rotation": true,
+            "stacking": true
+          }
+        ]
+      }
+    ],
+    "settings": {
+      "userSort": false
+    }
+  }
+}

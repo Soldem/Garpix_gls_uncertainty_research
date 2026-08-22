@@ -1,0 +1,9 @@
+file,cargo_count,volume_m3,mass_kg,manual_pallets,manual_transport,api_fill_rate,api_gp_type
+data_for_algoritm_14781.json,1,0.7,250.0,1,pallet,7.24568,freightcar
+data_for_algoritm_12729.json,1,0.99,198.0,1,pallet,8.28906,freightcar
+data_for_algoritm_13580.json,4,1.768,860.0,2,van,7.40155,freightcar
+data_for_algoritm_14784.json,4,1.768,860.0,2,van,7.40155,freightcar
+data_for_algoritm_13579.json,1,25.296,6800.0,15,truck,38.43111,freightcar
+data_for_algoritm_14208.json,1,50.688,23760.0,30,special,74.60156,freightcar
+data_for_algoritm_11834.json,202,3.99616297,6872.559000000003,3,truck,20.54158,freightcar
+data_for_algoritm_14457.json,67,172.52375,25272.0,100,special,90.76064,freightcar

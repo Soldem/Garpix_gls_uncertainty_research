@@ -1,0 +1,21 @@
+Файл,Единиц груза,Объём (м³),Масса (кг),Паллет,Особые (не паллетируются)
+data_for_algoritm_11834.json,524,4.0,6872.56,3,0
+data_for_algoritm_11834_massnorm.json,524,4.0,6872.56,3,0
+data_for_algoritm_11834_massnorm_dimnorm.json,524,4.0,6872.56,3,0
+data_for_algoritm_11834_massnorm_palletized.json,524,0.61,6872.56,1,0
+data_for_algoritm_12729.json,33.0,0.99,198.0,1,0
+data_for_algoritm_13579.json,17,25.3,6800.0,1,1
+data_for_algoritm_13580.json,61,1.77,860.0,2,0
+data_for_algoritm_14208.json,33,50.69,23760.0,1,1
+data_for_algoritm_14457.json,1785,172.52,25272.0,54,39
+data_for_algoritm_14770.json,18,27.33,5302.04,9,6
+data_for_algoritm_14770_massnorm.json,18,27.33,5302.04,9,6
+data_for_algoritm_14771.json,60,78.28,22148.46,14,13
+data_for_algoritm_14771_massnorm.json,60,78.28,22148.46,14,13
+data_for_algoritm_14772.json,18,27.33,5302.04,9,6
+data_for_algoritm_14772_massnorm.json,18,27.33,5302.04,9,6
+data_for_algoritm_14775.json,18,27.33,5302.04,9,6
+data_for_algoritm_14775_massnorm.json,18,27.33,5302.04,9,6
+data_for_algoritm_14781.json,500,0.7,250.0,1,0
+data_for_algoritm_14784.json,61,1.77,860.0,2,0
+ИТОГО,4814.0,586.88,161599.41,154,103
