@@ -56,9 +56,6 @@ garpix-practice-2026/
 
 1) Установка и запуск
 Клонирование репозитория
-bash
-git clone https://github.com/your-username/garpix-practice-2026.git
-cd garpix-practice-2026
 Установка зависимостей
 bash
 pip install -r requirements.txt
